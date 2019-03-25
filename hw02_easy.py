@@ -85,3 +85,4 @@ one_list = [1, 2, 5, 6, 7, 5, 3, 1]
 new_list = set(one_list)
 print(new_list)
 
+вот все, что я смог
